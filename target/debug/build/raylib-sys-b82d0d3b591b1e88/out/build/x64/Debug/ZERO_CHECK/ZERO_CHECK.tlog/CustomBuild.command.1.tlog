@@ -1,0 +1,10 @@
+^C:\USERS\ЕГОР\DOCUMENTS\RUST\PROJECTS\BARNSLEY_FERN\TARGET\DEBUG\BUILD\RAYLIB-SYS-B82D0D3B591B1E88\OUT\BUILD\CMAKEFILES\81BCD2C0B078518C7C99C31220F50703\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\cmake-3.27.7-windows-x86_64\bin\cmake.exe" -SC:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/raylib -BC:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

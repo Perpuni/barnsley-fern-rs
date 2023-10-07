@@ -1,0 +1,10 @@
+^C:\USERS\ЕГОР\DOCUMENTS\RUST\PROJECTS\BARNSLEY_FERN\TARGET\DEBUG\BUILD\RAYLIB-SYS-CC0C8C4A6C8BA4F6\OUT\RAYLIB\SRC\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\cmake-3.27.7-windows-x86_64\bin\cmake.exe" -SC:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/raylib -BC:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/build --check-stamp-file C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/build/raylib/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

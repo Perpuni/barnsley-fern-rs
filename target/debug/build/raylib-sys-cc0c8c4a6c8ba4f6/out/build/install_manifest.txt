@@ -1,0 +1,9 @@
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/lib/raylib.lib
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/include/raylib.h
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/include/rlgl.h
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/include/physac.h
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/include/raymath.h
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/include/raudio.h
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/lib/pkgconfig/raylib.pc
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-cc0c8c4a6c8ba4f6/out/lib/cmake/raylib/raylib-config.cmake

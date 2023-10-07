@@ -1,0 +1,10 @@
+^C:\USERS\ЕГОР\DOCUMENTS\RUST\PROJECTS\BARNSLEY_FERN\TARGET\DEBUG\BUILD\RAYLIB-SYS-CC0C8C4A6C8BA4F6\OUT\BUILD\CMAKEFILES\E21D0C053603A6BA9D35548E01509EBA\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

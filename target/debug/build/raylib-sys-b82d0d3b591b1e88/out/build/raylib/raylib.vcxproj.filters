@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\models.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\textures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\physac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\raudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\raylib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\raylib\external\glfw\src\glfw_objlib.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93B33127-B119-37E2-9165-C3C1C9B67E2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D476FA0A-2F10-313A-8A9A-B133BB729A50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{20B64B8F-4F96-3A31-B70B-7F3D03DA7481}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

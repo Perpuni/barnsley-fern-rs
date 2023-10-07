@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/CheckLibraryExists.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/FindThreads.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/Program Files/cmake-3.27.7-windows-x86_64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/raylib/src/external/glfw/CMake/glfw3.pc.in
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/raylib/src/external/glfw/CMake/glfw3Config.cmake.in
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/raylib/src/external/glfw/CMakeLists.txt
+C:/Users/Егор/Documents/Rust/projects/barnsley_fern/target/debug/build/raylib-sys-b82d0d3b591b1e88/out/raylib/src/external/glfw/src/glfw_config.h.in

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Егор\Documents\Rust\projects\barnsley_fern\target\debug\build\raylib-sys-b82d0d3b591b1e88\out\build\CMakeFiles\49e316165728539bfeeb2d2f2121df86\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BDFBB244-340D-31A8-88CE-33B2361653A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
